@@ -19,4 +19,4 @@ BNB / USD: 0x8A6af2B75F23831ADc973ce6288e5329F63D86c6
 2. Deploy the price feed contract for each asset, test the interface and copy their addresses. Once the deployment transactions are confirmed, you are able to find the deployed contracts in [etherscan](https://sepolia.etherscan.io/) with https://sepolia.etherscan.io/address/{:your_contract_address}.
 
 ## Submission
-Submit the **etherscan links** to the two contracts to this form: [https://forms.gle/XH6gU7782Vn7dFEY8](https://forms.gle/XH6gU7782Vn7dFEY8).
+Submit the **addresses/etherscan links** to the two contracts to **canvas**
