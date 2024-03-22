@@ -37,8 +37,8 @@ The whole system consists of three smart contracts, each for one part.
 | Contract | Function |  |
 | -------- | -------- |-------- |
 | PriceFeed     | An interface to get prices for synthetic assets from oracle     | Part 1|
-|Mint | For CDP creation, management, and liquidation |Part 2|
-|SynthSwap | A Uniswap-like automated market maker (AMM) protocol |Part 3
+|SynthSwap | A Uniswap-like automated market maker (AMM) protocol |Part 2|
+|Mint | For CDP creation, management, and liquidation |Part 3
 
 ## Testnet and wallet
 To deploy our contracts, we will use a public blockchain to deploy our smart contracts. In this part, we need to create some public accounts in **Sepolia Testnet** and use **Metamask** to manage them.
