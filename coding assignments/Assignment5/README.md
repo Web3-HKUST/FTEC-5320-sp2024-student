@@ -61,7 +61,7 @@ Other functions such as `closePosition`, and `deposit / withdraw` are not requir
 4. For debugging, you can open the browser developer console to view any errors and warnings.
 
 ## Submission
-Rename the `index.js` to `netid.js` and upload it to canvas
+Upload index.js to canvas
 
 ## Demo
 
